@@ -75,7 +75,3 @@ I enjoy playing mobile games and participating in e-sports tournaments in my fre
 I'm always eager to connect with fellow developers, designers, and tech enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to contact me. Let's build something amazing together!
 
 ---
-
-
-[![](https://visitcount.itsvg.in/api?id=codeskiee&label=Profile%20Views&color=4&icon=2&pretty=false)](https://visitcount.itsvg.in)
--->
