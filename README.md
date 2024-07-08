@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Rian Saputra</h1>
 <h3 align="center">I am a student at a university that focuses on information systems since 2022</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/icon/programmer_15673364#fromView=search&page=1&position=13&uuid=305b621e-a042-4d67-8599-58a6bd46cbb5" >
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/22693889-Programmer?utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Programmer&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Programmer&utm_medium=Social_Share" >
 
-- 🔭 I'm currently working on as a freelance Development
+- 🔭 I'm currently working on as a salesperson in a retail company & student in Bina Sarana Informatika University
+  
+- 🌱 I'm currently learning **CI3 , Flutter**
 
-- 🌱 I'm currently learning **React, Vue Js**
-
-- 💬 Ask me about **PHP, flutter, JavaScript, MySQL**
+- 💬 Ask me about **PHP, JavaScript, MySQL**
 
 - 📫 How to reach me **codeskiee99@gmail.com**
 
