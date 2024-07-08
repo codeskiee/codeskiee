@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rian Saputra</h1>
 <h3 align="center">I am a student at a university that focuses on information systems since 2022</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/22693889-Programmer" >
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/22693889-Programmer](https://www.freepik.com/icon/programmer_15673364#fromView=search&page=1&position=13&uuid=305b621e-a042-4d67-8599-58a6bd46cbb5)" >
 
 - 🔭 I'm currently working on as a freelance Development
 
