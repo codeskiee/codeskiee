@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on as a salesperson in a retail company & student in Bina Sarana Informatika University
   
-- 🌱 I'm currently learning **CI3 , Flutter**
+- 🌱 I'm currently learning **Boostrap , Flutter**
 
 - 💬 Ask me about **PHP, JavaScript, MySQL**
 
